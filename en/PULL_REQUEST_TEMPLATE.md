@@ -35,7 +35,7 @@ Connects to #N.
 
 ## By submitting this pull request I confirm I've read and comply with the below requirements
 
-- I have read and understood the [contribution guidelines](https://github.com/globalcodecollective/base/blob/master/en/CONTRIBUTING.md)
-and our [code of conduct](https://github.com/globalcodecollective/base/blob/master/en/CODE_OF_CONDUCT.md).
-- This pull request complies with the [code of conduct](https://github.com/globalcodecollective/base/blob/master/en/CODE_OF_CONDUCT.md) of the organization.
+- I have read and understood the [contribution guidelines](https://github.com/codingcrowd/base/blob/master/en/CONTRIBUTING.md)
+and our [code of conduct](https://github.com/codingcrowd/base/blob/master/en/CODE_OF_CONDUCT.md).
+- This pull request complies with the [code of conduct](https://github.com/codingcrowd/base/blob/master/en/CODE_OF_CONDUCT.md) of the organization.
 - This pull request has a descriptive title. For example, `Add new function to calculate user rating`, not `Update readme.md` or `Add some feature`.

@@ -2,7 +2,7 @@
 
 :sparkles::heart: Thank you so much for taking the time to contribute! :heart::sparkles:
 
-The following is a set of guidelines for contributing to any of our projects, which are hosted in the [GlobalCodeCollective Organization](https://github.com/globalcodecollective) on GitHub. Feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to any of our projects, which are hosted in the [CodingCrowd Organization](https://github.com/codingcrowd) on GitHub. Feel free to propose changes to this document in a pull request.
 
 #### Table Of Contents
 
