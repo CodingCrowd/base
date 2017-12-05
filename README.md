@@ -1,4 +1,4 @@
-# Global Code Collective Base Files
+# Coding Crowd Base Files
 
 This repository contains the base files for all new projects.
 
