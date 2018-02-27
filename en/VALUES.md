@@ -1,6 +1,6 @@
 ### Coding Crowd Community Values
 
-The Coding Crowd organization aims to promote an inclusive and diverse space
+Coding Crowd aims to promote an inclusive and diverse space
 within the projects of the organization and wherever else our admins and users
 have a voice as advocates that can make an impact.
 
