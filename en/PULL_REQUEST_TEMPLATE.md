@@ -1,4 +1,4 @@
-Connects to #N.
+Connects to #N(issue number).
 
 ## What does this PR do?
 
